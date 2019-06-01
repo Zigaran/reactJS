@@ -1,0 +1,23 @@
+{
+    "todos": [
+        {
+            "title": "Tarea 1",
+            "responsible": "El chavo del 8",
+            "description": "Pegarle a Quico",
+            "priority": "Low"
+        },
+        {
+            "title": "Tarea 2",
+            "responsible": "Mario Bros",
+            "description": "Rescatar a la princesa",
+            "priority": "Medium"
+        },
+        {
+            "title": "Tarea 3",
+            "responsible": "Doña Odulia Benita",
+            "description": "Mbae pico la'porte Don Juan",
+            "priority": "High"
+        }
+      
+    ]
+}

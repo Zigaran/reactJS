@@ -1,4 +1,4 @@
-# Aplicacion web construida a partir de un ´tutorial´
+# Aplicacion web construida a partir de un **tutorial**
 ###### Lenguaje: JSX 
 ###### Libreria: React.JS
 
